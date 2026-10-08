@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "HAPPY_MARRAIGE",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "friends-UCZ9.aternos.me",
+    "port": 64102,
     "version": "",
     "try-creative": false
   },
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "HAPPY MINECRAFT MARRAIGE TO YOU",
+        "explore the world"
       ]
     },
     "chat-log": true,
